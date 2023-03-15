@@ -1,3 +1,5 @@
+#  Python code to get all open articles from Springer and save them to a DB2 database
+
 import requests
 import json
 import ibm_db_dbi as dbi
